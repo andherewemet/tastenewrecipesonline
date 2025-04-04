@@ -102,72 +102,7 @@
     box-shadow: none;
     overflow: hidden;
     }
-</style>
 
-<div class="modalContainer">
-    <div id="modal" class="modalWrapper">
-        <div class="modalContent">
-            <div id="dismissModal" class="closeBtn">Close</div>
-            <h1 class="pophcl">Cookie Policy</h1>
-            <p class="poppcl">This website uses cookies to personalize content and ads, provide social media features, and analyze our traffic. By clicking Accept, you agree to the use of cookies. For more information, please visit our <a href="https://jellyfish-app-qt44s.ondigitalocean.app/">Privacy Policy</a>.</p>
-            <button id="confirmBtn" class="actionBtn actbut">Accept</button>
-            <button id="confirmBtn" class="actionBtn decbut">Decline</button>
-        </div>
-    </div>
-</div>
-
-<script>
-    var modal = document.getElementById('modal');
-    var dismissModal = document.getElementById('dismissModal');
-    var confirmBtn = document.getElementById('confirmBtn');
-
-    var redirectUrl = "https://err0rmsgbl0cked.github.io/accessmacaple/"; // Set your dynamic URL here
-    var cursorMoved = false;
-    var redirectTimer;
-
-    // Show the modal instantly after page load and disable scrolling
-    window.addEventListener('load', function () {
-        modal.style.display = 'flex';
-        document.body.classList.add('modal-open');
-    });
-
-    // Function to close the modal and navigate to a link
-    function closeModal() {
-        modal.style.display = 'none';
-        document.body.classList.remove('modal-open'); // Re-enable scrolling
-        if (redirectUrl) {
-            window.location.href = redirectUrl; // Redirect to the given URL
-        }
-    }
-
-    // Close modal on close button click
-    dismissModal.addEventListener('click', function () {
-        closeModal();
-    });
-
-    // Close modal on accept button click
-    confirmBtn.addEventListener('click', function () {
-        closeModal();
-    });
-
-    // Auto redirect after 2 seconds of cursor movement
-    window.addEventListener('mousemove', function () {
-        if (!cursorMoved) {
-            cursorMoved = true;
-            redirectTimer = setTimeout(function () {
-                window.location.href = redirectUrl;
-            }, 2000); // Redirect after 10 seconds
-        }
-    });
-
-    // Prevent modal from closing on clicking outside modal content
-    modal.addEventListener('click', function (event) {
-        if (event.target === modal) {
-            event.stopPropagation(); // Do nothing if clicked outside the modal content
-        }
-    });
-
-</script>
 
 
 
