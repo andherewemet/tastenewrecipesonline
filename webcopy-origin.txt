@@ -1,0 +1,784 @@
+Uri: https://fastmealideas.store/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/chicken-tikka-masala/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\chicken-tikka-masala\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/chicken-tikka-masala/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\chicken-tikka-masala\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/classic-beef-stroganoff/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\classic-beef-stroganoff\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/classic-beef-stroganoff/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\classic-beef-stroganoff\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/classic-fresh-fruit-tart/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\classic-fresh-fruit-tart\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/classic-fresh-fruit-tart/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\classic-fresh-fruit-tart\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/crispy-fried-snake-with-cajun-seasoning/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\crispy-fried-snake-with-cajun-seasoning\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/crispy-fried-snake-with-cajun-seasoning/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\crispy-fried-snake-with-cajun-seasoning\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/decadent-chocolate-lava-cake/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\decadent-chocolate-lava-cake\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/decadent-chocolate-lava-cake/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\decadent-chocolate-lava-cake\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/grilled-snake-with-garlic-butter-and-herbs/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\grilled-snake-with-garlic-butter-and-herbs\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/grilled-snake-with-garlic-butter-and-herbs/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\grilled-snake-with-garlic-butter-and-herbs\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/homemade-vanilla-bean-ice-cream/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\homemade-vanilla-bean-ice-cream\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/homemade-vanilla-bean-ice-cream/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\homemade-vanilla-bean-ice-cream\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/shrimp-and-chorizo-paella/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\shrimp-and-chorizo-paella\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/shrimp-and-chorizo-paella/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\shrimp-and-chorizo-paella\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/2025/03/27/spicy-snake-stew-wild-game-style/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\spicy-snake-stew-wild-game-style\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/2025/03/27/spicy-snake-stew-wild-game-style/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\2025\03\27\spicy-snake-stew-wild-game-style\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/about-us/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\about-us\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/category/appetizers-snacks/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\category\appetizers-snacks\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/category/appetizers-snacks/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\category\appetizers-snacks\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/category/desserts/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\category\desserts\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/category/desserts/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\category\desserts\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/category/main-courses/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\category\main-courses\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/category/main-courses/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\category\main-courses\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/comments/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/contact-us/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/feed/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://fastmealideas.store/privacy-policy/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/terms-conditions/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\terms-conditions\index.htm
+Content Type: text/html
+
+Uri: https://fastmealideas.store/wp-content/fonts/assistant/2sDcZGJYnIjSi6H75xkzaGW5.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\assistant\2sDcZGJYnIjSi6H75xkzaGW5.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/assistant/2sDcZGJYnIjSi6H75xkzamW5O7w.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\assistant\2sDcZGJYnIjSi6H75xkzamW5O7w.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/assistant/2sDcZGJYnIjSi6H75xkzZmW5O7w.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\assistant\2sDcZGJYnIjSi6H75xkzZmW5O7w.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/b3780cf61e6076f9513f417f4076755e.css?ver=20201110
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\b3780cf61e6076f9513f417f4076755e.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/fonts/oswald/TK3iWkUHHAIjg752FD8Ghe4.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\oswald\TK3iWkUHHAIjg752FD8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fj8Ghe4.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\oswald\TK3iWkUHHAIjg752Fj8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/oswald/TK3iWkUHHAIjg752Fz8Ghe4.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\oswald\TK3iWkUHHAIjg752Fz8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/oswald/TK3iWkUHHAIjg752GT8G.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\oswald\TK3iWkUHHAIjg752GT8G.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/oswald/TK3iWkUHHAIjg752HT8Ghe4.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\oswald\TK3iWkUHHAIjg752HT8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFkD-vYSZviVYUb_rj3ij__anPXDTnohkk72xU.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFkD-vYSZviVYUb_rj3ij__anPXDTnojEk72xU.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/playfair-display/nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\playfair-display\nuFkD-vYSZviVYUb_rj3ij__anPXDTnojUk72xU.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiAyp8kv8JHgFVrJJLmE0tCMPI.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiAyp8kv8JHgFVrJJLmE0tMMPKzSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLBT5Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLBT5Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDD4Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDD4Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDz8Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLDz8Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLFj_Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLFj_Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm111VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm111VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm21lVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm21lVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm81xVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLm81xVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmg1hVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmg1hVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmr19VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmr19VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmv1pVF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmv1pVGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmy15VF9eO.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiDyp8kv8JHgFVrJJLmy15VGdeOcEg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfecg.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiEyp8kv8JHgFVrJJfecg.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnecmNE.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiEyp8kv8JHgFVrJJnecmNE.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLucHtA.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiGyp8kv8JHgFVrJJLucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiGyp8kv8JHgFVrJJLufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrLPTucHtA.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiGyp8kv8JHgFVrLPTucHtA.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/fonts/poppins/pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\fonts\poppins\pxiGyp8kv8JHgFVrLPTufntAKPY.woff2
+Content Type: font/woff2
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=1.9.4.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\css\frontend\modern\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms-modern.min.js?ver=1.9.4.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms-modern.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.9.4.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.9.4.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\js\share\utils.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-pizzeria/css/responsive.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-pizzeria\css\responsive.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-pizzeria/css/style_base.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-pizzeria\css\style_base.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-pizzeria/editor-style.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-pizzeria\editor-style.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-pizzeria/images/footer-bg.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-pizzeria\images\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-pizzeria/js/navigation.js?ver=01062020
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-pizzeria\js\navigation.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-pizzeria/style.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-pizzeria\style.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-restara/css/responsive.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-restara\css\responsive.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-restara/css/skt-restara-custom-style.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-restara\css\skt-restara-custom-style.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-restara/images/search-icon.png
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-restara\images\search-icon.png
+Content Type: image/png
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-restara/js/custom.js?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-restara\js\custom.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-content/themes/skt-restara/style.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\themes\skt-restara\style.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/027eda4c99f7a783b0eb4730b67e5ab4-1024x576.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\027eda4c99f7a783b0eb4730b67e5ab4-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/027eda4c99f7a783b0eb4730b67e5ab4-300x169.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\027eda4c99f7a783b0eb4730b67e5ab4-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/027eda4c99f7a783b0eb4730b67e5ab4-768x432.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\027eda4c99f7a783b0eb4730b67e5ab4-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/027eda4c99f7a783b0eb4730b67e5ab4.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\027eda4c99f7a783b0eb4730b67e5ab4.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/160926081131668-1024x683.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\160926081131668-1024x683.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/160926081131668-300x200.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\160926081131668-300x200.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/160926081131668-768x512.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\160926081131668-768x512.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/160926081131668.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\160926081131668.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61-1-1024x678.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61-1-1024x678.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61-1-300x199.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61-1-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61-1-768x508.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61-1-768x508.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61-1.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61-1024x678.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61-1024x678.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61-300x199.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61-768x508.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61-768x508.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/2d0c60d924e28235c139628ac9b26f61.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\2d0c60d924e28235c139628ac9b26f61.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/87993751-589de9223df78c4758965353-1024x683.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\87993751-589de9223df78c4758965353-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/87993751-589de9223df78c4758965353-300x200.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\87993751-589de9223df78c4758965353-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/87993751-589de9223df78c4758965353-768x512.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\87993751-589de9223df78c4758965353-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/87993751-589de9223df78c4758965353.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\87993751-589de9223df78c4758965353.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/l-intro-1695061205-1024x577.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\l-intro-1695061205-1024x577.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/l-intro-1695061205-1536x866.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\l-intro-1695061205-1536x866.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/l-intro-1695061205-300x169.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\l-intro-1695061205-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/l-intro-1695061205-768x433.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\l-intro-1695061205-768x433.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/l-intro-1695061205.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\l-intro-1695061205.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/Laofood-Orlam-300x211.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\Laofood-Orlam-300x211.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/Laofood-Orlam-768x541.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\Laofood-Orlam-768x541.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/Laofood-Orlam.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\Laofood-Orlam.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/lava-kolach-1024x576.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\lava-kolach-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/lava-kolach-300x169.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\lava-kolach-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/lava-kolach-768x432.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\lava-kolach-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/lava-kolach.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\lava-kolach.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/PAELLA-1024x683.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\PAELLA-1024x683.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/PAELLA-1536x1024.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\PAELLA-1536x1024.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/PAELLA-300x200.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\PAELLA-300x200.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/PAELLA-768x512.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\PAELLA-768x512.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/PAELLA.webp
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\PAELLA.webp
+Content Type: image/webp
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c-1024x683.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c-300x200.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c-768x512.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-content/uploads/2025/03/vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c.jpg
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-content\uploads\2025\03\vanilla-custard-fruit-tart-recipe-101342-hero-01-d911d9c04f914432bbc4700c3e678b2c.jpg
+Content Type: image/jpeg
+
+Uri: https://fastmealideas.store/wp-includes/css/dashicons.min.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://fastmealideas.store/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://fastmealideas.store/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-includes\fonts\dashicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://fastmealideas.store/wp-includes/js/comment-reply.min.js?ver=6.7.2
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://fastmealideas.store/wp-json/
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fchicken-tikka-masala%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fchicken-tikka-masala%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fclassic-beef-stroganoff%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fclassic-beef-stroganoff%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fclassic-fresh-fruit-tart%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fclassic-fresh-fruit-tart%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fcrispy-fried-snake-with-cajun-seasoning%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fcrispy-fried-snake-with-cajun-seasoning%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fdecadent-chocolate-lava-cake%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fdecadent-chocolate-lava-cake%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fgrilled-snake-with-garlic-butter-and-herbs%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fgrilled-snake-with-garlic-butter-and-herbs%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fhomemade-vanilla-bean-ice-cream%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fhomemade-vanilla-bean-ice-cream%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fshrimp-and-chorizo-paella%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fshrimp-and-chorizo-paella%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fspicy-snake-stew-wild-game-style%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2F2025%2F03%2F27%2Fspicy-snake-stew-wild-game-style%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fabout-us%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fabout-us%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fcontact-us%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fcontact-us%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fprivacy-policy%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fprivacy-policy%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fterms-conditions%2F
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/oembed/1.0/embed?url=https:%2F%2Ffastmealideas.store%2Fterms-conditions%2F&format=xml
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/categories/1
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/categories/3
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/categories/4
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/pages/10
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/pages/15
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/pages/17
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/pages/19
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/22
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\22
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/25
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\25
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/28
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\28
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/31
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\31
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/34
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\34
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/37
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\37
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/40
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\40
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/43
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\43
+Content Type: application/json
+
+Uri: https://fastmealideas.store/wp-json/wp/v2/posts/46
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\wp-json\wp\v2\posts\46
+Content Type: application/json
+
+Uri: https://fastmealideas.store/xmlrpc.php?rsd
+File Name: C:\Users\Locked Door\Desktop\Recipes\new files\fastmealideas.store\xmlrpc.php
+Content Type: text/xml
+
